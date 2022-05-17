@@ -1,2 +1,2 @@
 # Number-Design
-Formation of Number Design using Java
+Formation of Number Design using Java Concepts
